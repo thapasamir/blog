@@ -1,5 +1,5 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Samir Thapa Blogs"
+email: thapa.qw12@gmail.com
 timezone: UTC
 baseurl: "https://samir-thapa.com.np/blog"
 
@@ -26,13 +26,13 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Samir
+    display_name: Samir
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: thapa.qw12@gmail.com
+    web: https://www.samir-thapa.com.np
+    twitter: https://twitter.com/potentialpotato2
+    description: "A weirdo who who think everyone is weird except him"
   john:
     name: John
     display_name: John
@@ -44,9 +44,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/_samir__thapa/
+  facebook: https://www.facebook.com/profile.php?id=100052128484606
+  twitter: https://twitter.com/potentialpotato2
 
 # Plugins
 plugins: 
