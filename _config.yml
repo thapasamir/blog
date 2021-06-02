@@ -1,7 +1,8 @@
 title: "Affiliates"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "thapasamir.github.io/blog"
+baseurl: "thapasamir.github.io"
+url: https://thapasamir.github.io/blog
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
